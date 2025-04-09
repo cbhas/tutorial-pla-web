@@ -2,7 +2,7 @@
 
 ---
 
-## 🌀 Ciclo I
+## Ciclo I
 - ✅ **Fundamentos Computacionales**
 - ✅ **Fundamentos Matemáticos**
 - ✅ **Humanismo, Universidad y Cultura**
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌀 Ciclo II
+## Ciclo II
 - ✅ **Física Básica**
 - ✅ **Álgebra Lineal**
 - ✅ **Análisis Matemático Univariado**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌀 Ciclo III
+## Ciclo III
 - ✅ **Ecuaciones Diferenciales y Métodos Numéricos**
 - ✅ **Lógica Digital**
 - ✅ **Fundamentos de Base de Datos**
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌀 Ciclo IV
+## Ciclo IV
 - ✅ **Arquitectura y Organización de Computadores**
 - ✅ **Análisis de Algoritmos**
 - ✅ **Base de Datos Avanzada**
